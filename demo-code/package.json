@@ -1,0 +1,25 @@
+{
+  "name": "quantumshield-ai-agents-demo",
+  "version": "1.0.0",
+  "description": "Demo source code for QuantumShield AI Agents - Hedera Hackathon 2025",
+  "main": "ai-agent-demo.js",
+  "type": "module",
+  "scripts": {
+    "demo": "node ai-agent-demo.js",
+    "test": "echo 'Demo code - see individual files for examples'"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.45.0",
+    "@stablelib/dilithium": "^1.0.1",
+    "@stablelib/random": "^1.0.1"
+  },
+  "keywords": [
+    "hedera",
+    "ai-agents",
+    "quantum-cryptography",
+    "ml-dsa",
+    "blockchain"
+  ],
+  "author": "QuantumShield Team",
+  "license": "Apache-2.0"
+}
