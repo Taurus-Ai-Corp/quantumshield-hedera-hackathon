@@ -33,11 +33,11 @@ QuantumShield is the world's first production-ready quantum-resistant infrastruc
 
 ### Key Highlights
 
-- ✅ **First-Mover:** Only quantum-resistant blockchain solution
-- ✅ **Multi-Track:** Competing in 4 hackathon tracks ($89K potential)
+- ✅ **First-Mover:** World's first verifiable on-chain AI agents with quantum signatures
+- ✅ **Track:** AI & Agents ($24,500 prize)
 - ✅ **Production-Ready:** Not a prototype - ready for deployment
-- ✅ **SWIFT 2027 Ready:** Compliant with upcoming mandates
-- ✅ **Patent-Pending:** 5+ innovative technologies
+- ✅ **ERC-8004 Compatible:** Industry-standard AI agent implementation
+- ✅ **Quantum-Secured:** ML-DSA signatures for all agent actions
 
 ## 🔴 Problem Statement
 
