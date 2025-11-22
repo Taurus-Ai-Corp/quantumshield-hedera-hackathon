@@ -10,7 +10,7 @@
 **Project Name:** QuantumShield  
 **Tagline:** Securing Tomorrow's Digital Assets Today  
 **Demo:** [Live Demo](https://quantumshield.hedera.io) | [Video Demo](https://youtu.be/demo)  
-**Tracks:** AI & Agents, DeFi & Tokenization, Open Track, Legacy Builders
+**Track:** AI & Agents (Single Track Submission)
 
 ## 📋 Table of Contents
 
@@ -342,12 +342,11 @@ prediction = engine.quantum_machine_learning(
 
 ### Tracks & Scoring
 
-We're competing in 4 tracks to maximize our $89K prize potential:
+**Selected Track: AI & Agents ($24,500)**
 
-1. **AI & Agents ($24,500)** - Verifiable quantum AI agents
-2. **DeFi & Tokenization ($24,500)** - Quantum NFT marketplace
-3. **Open Track ($20,000)** - NVIDIA quantum innovation
-4. **Legacy Builders ($20,000)** - Building on quantum research
+**Focus:** Verifiable on-chain AI agents with quantum-resistant signatures
+
+**Additional Features:** Our solution also includes DeFi gamification, NVIDIA quantum simulations, and cross-chain bridges, but our primary submission is focused on AI & Agents track.
 
 ### Judging Criteria Alignment
 
