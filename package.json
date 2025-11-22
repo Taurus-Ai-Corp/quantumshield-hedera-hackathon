@@ -1,0 +1,60 @@
+{
+  "name": "quantumshield-hedera",
+  "version": "1.0.0",
+  "description": "World's First Quantum-Resistant NFT Marketplace on Hedera Hashgraph",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "test:integration": "jest --testPathPattern=integration",
+    "audit": "npm audit",
+    "demo": "open demos/index.html",
+    "deploy:testnet": "node scripts/deploy-testnet.js",
+    "deploy:mainnet": "node scripts/deploy-mainnet.js",
+    "quantum:benchmark": "python src/quantum-simulation/QuantumSimulationEngine.py"
+  },
+  "keywords": [
+    "hedera",
+    "hashgraph",
+    "quantum-resistant",
+    "ml-dsa",
+    "nft",
+    "defi",
+    "ai-agents",
+    "nvidia",
+    "blockchain",
+    "cryptography"
+  ],
+  "author": "QuantumShield Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.45.0",
+    "@stablelib/dilithium": "^1.0.1",
+    "@stablelib/kyber": "^1.0.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.2.4",
+    "eslint": "^8.56.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantumshield/hedera-hackathon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quantumshield/hedera-hackathon/issues"
+  },
+  "homepage": "https://quantumshield.hedera.io"
+}
